@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Week Breakfast</string>
+    <string name="breakfast1">Яичница</string>
+    <string name="breakfast_description1">TO DO</string>
+    <string name="breakfast2">Сырники</string>
+    <string name="breakfast_description2">TO DO</string>
+    <string name="breakfast3">Овсянка</string>
+    <string name="breakfast_description3">TO DO</string>
+    <string name="breakfast4">Тост</string>
+    <string name="breakfast_description4">TO DO</string>
+    <string name="breakfast5">Блины</string>
+    <string name="breakfast_description5">TO DO</string>
+    <string name="breakfast6">Круассан</string>
+    <string name="breakfast_description6">TO DO</string>
+    <string name="breakfast7">Смузи-боул</string>
+    <string name="breakfast_description7">TO DO</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="zeroPadding">0dp</dimen>
+    <dimen name="roundCorner">10dp</dimen>
+    <dimen name="regularPadding">5dp</dimen>
+</resources>
